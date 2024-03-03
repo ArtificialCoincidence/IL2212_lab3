@@ -1,0 +1,9 @@
+[Compiling code for cpu_0]
+
+Info: Building ../../bsp/task5_0/
+make --no-print-directory -C ../../bsp/task5_0/
+[BSP build complete]
+[task5_0 build complete]
+
+[Compiling code for cpu_1]
+

@@ -1,0 +1,7 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 3
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+
+
+nios2-terminal: exiting due to ^C on host

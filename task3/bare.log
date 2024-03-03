@@ -1,0 +1,1881 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785225 seconds  (39261226 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805608|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28683|       14341407|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785239 seconds  (39261948 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43604|       21801993|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346049|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3110769|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785362 seconds  (39268097 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805604|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28691|       14345614|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06227|        3113742|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785281 seconds  (39264040 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43603|       21801372|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346226|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06227|        3113305|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39265325 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43610|       21804762|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28703|       14351436|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106008|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785387 seconds  (39269338 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43613|       21806675|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343263|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116263|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785407 seconds  (39270367 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804248|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28704|       14352232|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.01112|        3110750|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785305 seconds  (39265235 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43618|       21809132|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28685|       14342612|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110354|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265632 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803802|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28704|       14351949|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06214|        3106762|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785471 seconds  (39273539 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43621|       21810450|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346014|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06228|        3113938|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78531 seconds  (39265478 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805286|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28683|       14341713|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06231|        3115342|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265667 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803450|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28706|       14353045|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106035|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785205 seconds  (39260231 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804146|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28684|       14342120|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3110846|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785297 seconds  (39264854 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21802997|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28696|       14347898|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3110822|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785394 seconds  (39269711 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43617|       21808412|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28694|       14346962|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111200|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785297 seconds  (39264840 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803530|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346220|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06224|        3111953|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785329 seconds  (39266447 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43618|       21808948|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28706|       14353055|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06203|        3101325|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78525 seconds  (39262505 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43610|       21804859|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343499|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111010|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785329 seconds  (39266452 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804588|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28701|       14350693|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06216|        3108034|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785173 seconds  (39258645 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804470|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28679|       14339510|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06223|        3111528|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785406 seconds  (39270310 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804310|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343404|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06229|        3114695|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785391 seconds  (39269569 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802734|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28706|       14352982|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110716|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785205 seconds  (39260249 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43610|       21804856|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14341164|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785407 seconds  (39270359 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804578|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28704|       14351863|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106081|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785288 seconds  (39264419 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43613|       21806726|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28676|       14338198|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116376|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785322 seconds  (39266112 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804295|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28708|       14353971|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06209|        3104709|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785255 seconds  (39262751 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803282|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28697|       14348390|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06216|        3107942|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785189 seconds  (39259459 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804621|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28681|       14340609|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.7854 seconds  (39270019 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804251|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28713|       14356577|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106072|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785282 seconds  (39264113 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43624|       21811982|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28675|       14337378|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06223|        3111616|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785245 seconds  (39262252 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43604|       21802034|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28696|       14347831|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.01112|        3109250|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785407 seconds  (39270367 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804598|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28704|       14351924|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110708|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785296 seconds  (39264780 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804307|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14341014|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116340|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785319 seconds  (39265929 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804039|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28705|       14352695|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106058|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.786431 seconds  (39321560 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43728|       21863849|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14341012|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06227|        3113562|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39286625 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43643|       21821693|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28708|       14353827|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06207|        3103267|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785404 seconds  (39270185 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21805970|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28701|       14350388|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110708|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785305 seconds  (39265239 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21806162|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28699|       14349319|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06213|        3106621|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785287 seconds  (39264336 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21803241|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28704|       14351915|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106043|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785352 seconds  (39267623 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21805928|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28684|       14342206|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116352|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785274 seconds  (39263700 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804276|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28708|       14354247|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06204|        3102058|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785265 seconds  (39263243 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21805910|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346092|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06216|        3108104|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785279 seconds  (39263962 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804404|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28688|       14343966|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06225|        3112455|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785269 seconds  (39263449 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43599|       21799586|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28700|       14349992|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106034|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.7854 seconds  (39269999 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43615|       21807524|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28680|       14339864|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06239|        3119492|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785261 seconds  (39263060 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21802810|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14349065|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06207|        3103347|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785247 seconds  (39262337 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805578|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28694|       14347122|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06213|        3106500|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785284 seconds  (39264202 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803843|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346066|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111156|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265649 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803774|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28688|       14344172|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06229|        3114584|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785237 seconds  (39261845 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43613|       21806686|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14340930|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785417 seconds  (39270831 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43618|       21808958|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28705|       14352647|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106089|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78538 seconds  (39268977 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21807200|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28693|       14346456|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06224|        3112184|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785384 seconds  (39269194 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802707|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28696|       14347914|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06231|        3115454|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785291 seconds  (39264545 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803778|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28688|       14343852|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06228|        3113778|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785266 seconds  (39263315 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43615|       21807350|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28683|       14341736|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785297 seconds  (39264862 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802655|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28706|       14352996|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106074|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785304 seconds  (39265217 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21807200|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28693|       14346348|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06208|        3103768|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.786438 seconds  (39321886 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43720|       21860061|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28686|       14343046|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06222|        3110938|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785246 seconds  (39262277 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21803136|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343363|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06225|        3112641|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785393 seconds  (39269628 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43634|       21816912|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28677|       14338487|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265645 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803450|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14349150|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06220|        3109926|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785305 seconds  (39265235 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21807200|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28691|       14345446|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06219|        3109452|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785391 seconds  (39269548 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21803016|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28700|       14350090|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06227|        3113305|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785246 seconds  (39262277 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804426|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28695|       14347572|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06214|        3107142|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785296 seconds  (39264780 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43603|       21801577|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343744|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116340|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265664 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803450|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28715|       14357720|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06203|        3101357|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785294 seconds  (39264702 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43623|       21811449|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28683|       14341746|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06217|        3108370|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785316 seconds  (39265823 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43616|       21807852|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28694|       14346943|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06216|        3107891|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39262975 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804590|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28695|       14347326|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06206|        3103240|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785221 seconds  (39261051 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803582|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28676|       14337823|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116509|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785391 seconds  (39269569 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802652|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28706|       14353034|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110746|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785368 seconds  (39268421 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805604|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28689|       14344462|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06230|        3115218|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265632 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805734|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28696|       14348085|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06217|        3108694|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785197 seconds  (39259853 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43610|       21804776|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14345768|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106172|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785289 seconds  (39264436 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804082|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14341036|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06232|        3116181|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785291 seconds  (39264545 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802652|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28696|       14348027|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110729|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785266 seconds  (39263297 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43622|       21811184|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28686|       14342930|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106064|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785401 seconds  (39270029 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803469|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28701|       14350676|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06225|        3112747|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785224 seconds  (39261215 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21802848|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28697|       14348730|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06213|        3106500|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785294 seconds  (39264676 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803519|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28694|       14346864|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111156|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785423 seconds  (39271147 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43618|       21808948|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14349196|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06220|        3109884|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785346 seconds  (39267287 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43610|       21805169|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28686|       14343107|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06232|        3115874|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785329 seconds  (39266454 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804582|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28701|       14350711|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06216|        3108024|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78524 seconds  (39262009 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21806066|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28691|       14345486|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06215|        3107320|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78539 seconds  (39269515 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802710|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28695|       14347591|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06232|        3116095|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785407 seconds  (39270367 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43598|       21798832|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14349036|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06229|        3114580|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785289 seconds  (39264437 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21806866|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28673|       14336628|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06236|        3117806|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39259675 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43603|       21801664|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14348787|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106087|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785304 seconds  (39265217 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.6|    0.43625|       21812306|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28693|       14346680|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06206|        3103112|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785423 seconds  (39271137 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804296|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28707|       14353343|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110361|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785313 seconds  (39265667 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805710|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28702|       14350809|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106011|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785289 seconds  (39264437 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21807183|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28676|       14338243|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06232|        3115874|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785245 seconds  (39262253 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.11112|       21804250|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28688|       14344111|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3110773|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785198 seconds  (39259913 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804134|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28688|       14343846|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06218|        3108796|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785318 seconds  (39265909 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803755|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28701|       14350333|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06217|        3108684|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785291 seconds  (39264533 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803464|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28704|       14351924|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106008|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785284 seconds  (39264186 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43613|       21806311|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343664|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3111092|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39262275 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802316|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14346065|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06222|        3110757|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785198 seconds  (39259913 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21804134|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28685|       14342698|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06220|        3109944|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785322 seconds  (39266113 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804271|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28713|       14356474|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06204|        3102231|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785302 seconds  (39265079 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805254|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28692|       14345998|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110708|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785244 seconds  (39262185 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43606|       21803028|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28689|       14344617|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06223|        3111403|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785307 seconds  (39265343 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803450|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14348849|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06220|        3109907|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78523 seconds  (39261521 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43611|       21805742|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28685|       14342288|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06221|        3110354|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785297 seconds  (39264834 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43607|       21803478|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28702|       14351151|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06214|        3107086|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785319 seconds  (39265973 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43617|       21808640|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28702|       14350792|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06207|        3103404|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785255 seconds  (39262748 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804490|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28678|       14338783|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06233|        3116338|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.111112 seconds  (39267775 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43602|       21801182|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28705|       14352722|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106034|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785368 seconds  (39268403 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43612|       21805928|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28687|       14343728|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06231|        3115628|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785261 seconds  (39263061 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43619|       21809442|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28689|       14344369|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.91|    0.06212|        3106113|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785231 seconds  (39261539 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43619|       21809562|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28694|       14346958|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06204|        3101882|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785408 seconds  (39270420 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43619|       21809353|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28693|       14346381|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06223|        3111549|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785297 seconds  (39264851 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43608|       21803774|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28713|       14356633|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06203|        3101325|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785368 seconds  (39268421 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43613|       21806317|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28686|       14343175|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.93|    0.06232|        3115792|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.78529 seconds  (39264519 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43605|       21802335|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.6|    0.28715|       14357639|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         |  7.9|    0.06203|        3101408|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.785409 seconds  (39270427 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43614|       21807036|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28698|       14348890|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.92|    0.06223|        3111364|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 0.7853 seconds  (39264982 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 55.5|    0.43609|       21804642|          4|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          | 36.5|    0.28682|       14341204|          4|
++---------------+-----+-----------+---------------+-----------+
+|resize         | 7.94|    0.06232|        3116017|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+
+
+nios2-terminal: exiting due to ^C on host

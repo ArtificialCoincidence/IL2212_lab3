@@ -1,0 +1,91 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [2-1]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+MicroC/OS-II-Vesion: 2.86
+All Tasks and Kernel Objects generated!
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 40.0924 seconds  (2004619644 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 1.41|    0.56381|       28190480|          5|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          |0.737|    0.29530|       14765038|          4|
++---------------+-----+-----------+---------------+-----------+
+|Resize         | 0.16|    0.06405|        3202744|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 40.1128 seconds  (2005642244 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 1.41|    0.56434|       28216758|          5|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          |0.736|    0.29529|       14764660|          4|
++---------------+-----+-----------+---------------+-----------+
+|Resize         | 0.16|    0.06405|        3202744|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 40.1128 seconds  (2005641094 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 1.41|    0.56434|       28216830|          5|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          |0.736|    0.29529|       14764660|          4|
++---------------+-----+-----------+---------------+-----------+
+|Resize         | 0.16|    0.06405|        3202744|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 40.1128 seconds  (2005642253 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 1.41|    0.56434|       28216758|          5|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          |0.736|    0.29529|       14764660|          4|
++---------------+-----+-----------+---------------+-----------+
+|Resize         | 0.16|    0.06405|        3202744|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+--Performance Counter Report--
+Total Time: 40.1128 seconds  (2005642061 clock-cycles)
++---------------+-----+-----------+---------------+-----------+
+| Section       |  %  | Time (sec)|  Time (clocks)|Occurrences|
++---------------+-----+-----------+---------------+-----------+
+|Gray           | 1.41|    0.56434|       28216758|          5|
++---------------+-----+-----------+---------------+-----------+
+|ASCII          |0.736|    0.29529|       14764639|          4|
++---------------+-----+-----------+---------------+-----------+
+|Resize         | 0.16|    0.06405|        3202744|          4|
++---------------+-----+-----------+---------------+-----------+
+Executing: p3 to gray scale 
+Executing: p3 to gray scale 
+
+
+nios2-terminal: exiting due to ^C on host
